@@ -1,1 +1,1 @@
-# SimpleEmailSender
+# simple email sender
